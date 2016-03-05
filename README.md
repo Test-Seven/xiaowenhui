@@ -82,17 +82,16 @@
 2. proxy tool：`Fiddler`
 3. 代理ip+端口号：`192.168.0.102 + 8888`（默认，可以自己修改）
 4. 生成SSL证书：
-
 ![](http://i.imgur.com/eMqYXM9.jpg)
 
 5. 手机上安装证书：手机设置好代理后，手机浏览器访问`192.168.0.102:8888/FiddlerRoot.cer`，安装证书
-
 ![](http://i.imgur.com/G2eZtLI.jpg)
 ![](http://i.imgur.com/ecvjwhw.jpg)
 
 6. 访问百度手机网页，抓取https数据
-
 ![](http://i.imgur.com/0BYEtih.jpg)
+
+
 
 
 ## 四、编译一个android apk，并指出keystore目录
